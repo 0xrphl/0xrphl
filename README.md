@@ -81,9 +81,10 @@
         <a href='https://ko-fi.com/W7W2U4OSB' target='_blank'><img height='50' style='border:0px;height:50px;' src='https://storage.ko-fi.com/cdn/kofi5.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
     </div>
     <div>
-        <a href='https://ibb.co/h7TCMKK' target='_blank'><button style='background-color: orange; color: white; padding: 10px 20px; border: none; cursor: pointer;'>Donate Bitcoin</button></a>
+        <a href='https://ibb.co/h7TCMKK' target='_blank'><img height='50' style='border:0px;height:50px;' src='https://www.mundiplumarii.com/en/wp-content/uploads/2017/12/bitcoin_donation-1.png' border='0' alt='Donate Bitcoin'/></a>
     </div>
 </div>
+
 
 
 
