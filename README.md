@@ -42,8 +42,31 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=py,cpp,docker,css,figma,git,github,html,js,matlab,mongodb,mysql,nextjs,nodejs,octave,postgres,pytorch,ts,visualstudio,vscode,react,sklearn,selenium,solidity,tailwind,tensorflow,threejs,wordpress" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+    <br>
+    <!-- Pending Skills -->
+    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AMicrosoft_Excel_2013-2019_logo.svg&psig=AOvVaw1r_kIb1U8wt0mpGZTh4JHB&ust=1707206483410000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCMj_pvLdk4QDFQAAAAAdAAAAABAE" />
+    <img src="https://skillicons.dev/icons?i=powerbi" />
+    <img src="https://skillicons.dev/icons?i=tableau" />
+    <img src="https://skillicons.dev/icons?i=lookerstudio" />
+    <img src="https://skillicons.dev/icons?i=visualbasic" />
+    <img src="https://skillicons.dev/icons?i=googlesheets" />
+    <img src="https://skillicons.dev/icons?i=googleappsscript" />
+    <img src="https://skillicons.dev/icons?i=pandas" />
+    <img src="https://skillicons.dev/icons?i=puppeteer" />
+    <img src="https://skillicons.dev/icons?i=solidworks" />
+    <img src="https://skillicons.dev/icons?i=autodeskinventor" />
+    <img src="https://skillicons.dev/icons?i=ansys" />
+    <img src="https://skillicons.dev/icons?i=matplotlib" />
+    <img src="https://skillicons.dev/icons?i=numpy" />
+    <img src="https://skillicons.dev/icons?i=scipy" />
+    <img src="https://skillicons.dev/icons?i=shopify" />
+    <img src="https://skillicons.dev/icons?i=googleanalytics" />
+    <img src="https://skillicons.dev/icons?i=litmus" />
+    <img src="https://skillicons.dev/icons?i=mjml" />
+    <img src="https://skillicons.dev/icons?i=sqlserver" />
+    <br>
 </div>
+
 
 <br/>
 <hr/>
