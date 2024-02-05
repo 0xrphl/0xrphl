@@ -75,7 +75,7 @@
 <hr/>
 
 <br/>
-<div style="text-align: center; max-width: 600px; margin: 0 auto;">
+<div style="display: flex; flex-direction: column; align-items: center; text-align: center; margin: 0 auto; max-width: 600px; display: flex; justify-content: center;">
     <div style="margin-bottom: 10px;">
         <a href='https://ko-fi.com/W7W2U4OSB' target='_blank'><img height='60' style='border: 0; height: 60px;' src='https://storage.ko-fi.com/cdn/kofi5.png?v=3' alt='Buy Me a Coffee at ko-fi.com' /></a>
     </div>
@@ -89,6 +89,7 @@
         <a href='https://ibb.co/dbDMmWn' target='_blank'><img height='60' style='border: 0; height: 150px;' src='https://i.ibb.co/K6WzRk0/white-6f2e981e-5ad4-44c3-9b7d-5daaf0e34e99p-Photoroom-png-Photoroom.png' alt='Donate Kaspa'/></a>
     </div>
 </div>
+
 
 
 
