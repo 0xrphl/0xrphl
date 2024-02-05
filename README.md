@@ -41,38 +41,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=javascript,typescript,html,css,reactjs,MySQL,tailwind,nodejs,
-    Excel,
-    git,
-    figma,
-    docker,
-    threejs,
-    python,
-    PowerBI,
-    Tableau,
-    LookerStudio,
-    VisualBasic,
-    GoogleSheets,
-    MATLAB,
-    GoogleAppsScript,
-    Pandas,
-    Puppeteer,
-    SOLIDWORKS,
-    AutodeskInventor,
-    ANSYS,
-    C,
-    Solidity,
-    PostgreSQL,
-    Matplotlib,
-    ScikitLearn,
-    Numpy,
-    Scipy,
-    Shopify,
-    Wordpress,
-    GoogleAnalytics,
-    Litmus,
-    MJML,
-    SQLserver" />
+    <img src="https://skillicons.dev/icons?i=py,cpp,docker,css,figma,git,github,html,js,matlab,mongodb,mysql,nextjs,nodejs,octave,postgres,pytorch,ts,visualstudio,vscode,react,sklearn,selenium,solidity,tailwind,tensorflow,threejs,wordpress" />
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
 </div>
 
