@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Raphael!;" />
 </h1>
 
-<h3 align="center">A passionate Data Analyst and Mechanical Engineer from C0lombia</h3>
+<h3 align="center">A passionate Data Analyst and Mechanical Engineer from Colombia</h3>
 
 <br/>
 
@@ -14,19 +14,7 @@
 
 🔒 Crypto Maximalist 💰 Kaspa Validator 🛡️
 
-📊 Future Data Scientist in the making! 📈 Currently diving into ML algorithms, including the Bayesian approach, using Numpy, TensorFlow, and Keras.
-
-🔍 Skills on the Journey to Data Science:
-   - 📈 Statistics
-   - 📊 Probability
-   - 🐍 Python
-   - 📚 Domain expertise
-   - 📊 Machine Learning Algorithms
-   - 🧠 Critical Thinking
-   - 📉 Data Wrangling
-   - 📈 Data Visualization
-   - 📉 SQL
-   - 🌐 Big Data Technologies
+📊 Experienced data analyst and future Data Scientist in the making! 📈 Currently diving into ML algorithms, including the Bayesian approach, using Numpy, TensorFlow, and Keras.
 
 🌱 Learning **TensorFlow, keras, Kafka, Apache Spark for continuous growth.
 
@@ -53,7 +41,38 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,html,css,reactjs,MySQL,tailwind,nodejs,
+    Excel,
+    git,
+    figma,
+    docker,
+    threejs,
+    python,
+    PowerBI,
+    Tableau,
+    LookerStudio,
+    VisualBasic,
+    GoogleSheets,
+    MATLAB,
+    GoogleAppsScript,
+    Pandas,
+    Puppeteer,
+    SOLIDWORKS,
+    AutodeskInventor,
+    ANSYS,
+    C,
+    Solidity,
+    PostgreSQL,
+    Matplotlib,
+    ScikitLearn,
+    Numpy,
+    Scipy,
+    Shopify,
+    Wordpress,
+    GoogleAnalytics,
+    Litmus,
+    MJML,
+    SQLserver," />
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
 </div>
 
