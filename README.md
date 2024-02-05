@@ -44,7 +44,7 @@
     <img src="https://skillicons.dev/icons?i=py,cpp,docker,css,figma,git,github,html,js,matlab,mongodb,mysql,nextjs,nodejs,octave,postgres,pytorch,ts,visualstudio,vscode,react,sklearn,selenium,solidity,tailwind,tensorflow,threejs,wordpress" />
     <br>
     <!-- Pending Skills -->
-    <p>Excel, PowerBI, Tableau, LookerStudio, VisualBasic, GoogleSheets, GoogleAppsScript, Pandas, Puppeteer, SOLIDWORKS, AutodeskInventor, ANSYS, Matplotlib, Numpy, Scipy, Shopify, GoogleAnalytics, Litmus, MJML, SQLserver</p>
+    <div>Excel, PowerBI, Tableau, LookerStudio, VisualBasic, GoogleSheets, GoogleAppsScript, Pandas, Puppeteer, SOLIDWORKS, AutodeskInventor, ANSYS, Matplotlib, Numpy, Scipy, Shopify, GoogleAnalytics, Litmus, MJML, SQLserver</div>
     <br>
 </div>
 
