@@ -1,33 +1,49 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=0xrphl.0xrphl" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pedro+Muniz!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Raphael!;" />
 </h1>
 
-<h3 align="center">A passionate software developer from Canada 🇨🇦</h3>
+<h3 align="center">A passionate Data Analyst and Mechanical Engineer from C0lombia</h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 I’m currently working on **a marketplace**
- 
- 🌱 I’m currently learning **Docker, Supabase, AWS**
+🕹️ Passionate about 3D puzzles like the Rubik's Cube and all 3D puzzles! 🧩
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
+🔒 Crypto Maximalist 💰 Kaspa Validator 🛡️
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+📊 Future Data Scientist in the making! 📈 Currently diving into ML algorithms, including the Bayesian approach, using Numpy, TensorFlow, and Keras.
+
+🔍 Skills on the Journey to Data Science:
+   - 📈 Statistics
+   - 📊 Probability
+   - 🐍 Python
+   - 📚 Domain expertise
+   - 📊 Machine Learning Algorithms
+   - 🧠 Critical Thinking
+   - 📉 Data Wrangling
+   - 📈 Data Visualization
+   - 📉 SQL
+   - 🌐 Big Data Technologies
+
+🌱 Learning **TensorFlow, keras, Kafka, Apache Spark for continuous growth.
+
+💬 Ask me anything about **Node.js, React, Three.js, mechanical design and failure theory or more [here](https://github.com/0xrphl/0xrphl/issues/new)**.
+
+⚡ Fun Fact: **The number of possible combinations: Rubik’s Cube has 43,252,003,274,489,856,000 possible combinations, making it one of the most complex puzzles in existence.** 🧊🤯
 
  </div>
  
 <div align="center"> 
-  <a href="mailto:pedro.sales.muniz@gmail.com">
+  <a href="mailto:0xrphl@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
+  <a href="https://www.linkedin.com/in/0xraphael/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://salesp07.github.io" target="_blank">
+  <a href="https://0xraphael.com/" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
