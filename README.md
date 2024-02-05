@@ -78,7 +78,7 @@
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
     <div>
-        <a href='https://ko-fi.com/W7W2U4OSB' target='_blank'><img height='50' style='border:0px;height:50px;' src='https://storage.ko-fi.com/cdn/kofi5.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+        <a href='https://ko-fi.com/W7W2U4OSB' target='_blank'><img height='30' style='border:0px;height:30px;' src='https://storage.ko-fi.com/cdn/kofi5.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
     </div>
     <div>
         <a href='https://ibb.co/h7TCMKK' target='_blank'><button style='background-color: orange; color: white; padding: 10px 20px; border: none; cursor: pointer;'>Donate Bitcoin</button></a>
