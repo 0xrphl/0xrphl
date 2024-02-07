@@ -1,5 +1,4 @@
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=0xrphl.0xrphl" />
-
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Raphael!;" />
 </h1>
@@ -87,14 +86,6 @@
     </div>
 </div>
 <br/>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=0xrphl&show_icons=true&locale=en&layout=compact" alt="0xrphl" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=0xrphl&show_icons=true&locale=en" alt="0xrphl" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=0xrphl&" alt="0xrphl" /></p>
-
-
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/0xrnull" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="0xrnull" height="30" width="40" /></a>
