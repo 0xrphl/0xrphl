@@ -85,9 +85,7 @@
     </div>
     <div style="margin: 5px;">
         <a href='https://ibb.co/NjfBq1r' target='_blank'><img height='80' style='border:0px;height:120px;' src='https://www.bitstamp.net/learn/_ipx/enlarge_true&f_png&fit_cover&q_85&s_1200x630/www.bitstamp.net/learn/bts-img/2022/08/1920x1080px_illustrations_learningcenter-25.png' border='0' alt='Donate ETH'/></a>
-    </div>
-    <div style="margin: 5px;">
-        <a href='https://ibb.co/dbDMmWn' target='_blank'><img height='80' style='border:0px;height:130px;' src='https://i.ibb.co/K6WzRk0/white-6f2e981e-5ad4-44c3-9b7d-5daaf0e34e99p-Photoroom-png-Photoroom.png' border='0' alt='Donate Kaspa'/></a>
+         <a href='https://ibb.co/dbDMmWn' target='_blank'><img height='80' style='border:0px;height:130px;' src='https://i.ibb.co/K6WzRk0/white-6f2e981e-5ad4-44c3-9b7d-5daaf0e34e99p-Photoroom-png-Photoroom.png' border='0' alt='Donate Kaspa'/></a>
     </div>
 </div>
 </div>
