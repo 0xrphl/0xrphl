@@ -78,11 +78,11 @@
 <br/>
 <div align=center>
     <div align=center>
-        <a href='https://ko-fi.com/W7W2U4OSB' target='_blank' style='margin-right: 0px; padding: 15px;'>
+        <a href='https://ko-fi.com/W7W2U4OSB' target='_blank' style='margin-right: 0px; padding: 50px;'>
   <img height='80' style='border:10px;height:50px;' src='https://storage.ko-fi.com/cdn/kofi5.png?v=3' alt='Buy Me a Coffee at ko-fi.com' />
 </a>
 
-<a href='https://ibb.co/h7TCMKK' target='_blank' style='display: inline-block; margin-right: 0px; padding: 15px;'>
+<a href='https://ibb.co/h7TCMKK' target='_blank' style='display: inline-block; margin-right: 0px; padding: 50px;'>
   <img height='80' style='border:0px;height:65px;' src='https://www.mundiplumarii.com/en/wp-content/uploads/2017/12/bitcoin_donation-1.png' alt='Donate Bitcoin'/>
 </a>
         <a href='https://ibb.co/NjfBq1r' target='_blank'><img height='80' style='border:0px;height:140px;' src='https://static.vecteezy.com/system/resources/previews/010/851/687/original/3d-illustration-coin-ethereum-png.png'  alt='Donate ETH'/></a>
