@@ -13,15 +13,16 @@
 
 🔒 Crypto Maximalist 💰 Kaspa Validator 🛡️
 
-📊 Experienced data analyst and future Data Scientist in the making! 📈 Currently diving into ML algorithms, including the Bayesian approach, using Numpy, TensorFlow, and Keras.
+📊 Experienced data analyst and future Data Scientist in the making! 📈 Currently diving into ML algorithms, including the Bayesian approach, using Numpy, TensorFlow, Keras, and PyTorch.
 
-🌱 Learning **TensorFlow, keras, Kafka, Apache Spark for continuous growth.
+🌱 Future Roadmap: Learning Kafka and Apache Spark for real-time data processing and big data analytics.
 
-💬 Ask me anything about **Node.js, React, Three.js, mechanical design and failure theory or more [here](https://github.com/0xrphl/0xrphl/issues/new)**.
+💬 Ask me anything about Node.js, React, Three.js, mechanical design and failure theory or more [here](https://github.com/0xrphl/0xrphl/issues/new).
 
-⚡ Fun Fact: **The number of possible combinations: Rubik’s Cube has 43,252,003,274,489,856,000 possible combinations, making it one of the most complex puzzles in existence.** 🧊🤯
+⚡ Fun Fact: A 21x21x21 Rubik's Cube has approximately \(10^{239}\) possible states, which is significantly more than the estimated \(10^{80}\) atoms in the observable universe. To equal the number of possible states for a 21x21x21 Rubik's Cube, you would need approximately \(10^{159}\) universes with the same number of atoms as our observable universe to equal this number of states in atoms. 🧊🤯
 
- </div>
+</div>
+
  
 <div align="center"> 
   <a href="mailto:0xrphl@gmail.com">
