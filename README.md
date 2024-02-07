@@ -4,12 +4,6 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Raphael!;" />
 </h1>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/0xrnull" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="0xrnull" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/0xraphael" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="0xraphael" height="30" width="40" /></a>
-</p>
-
 <h3 align="center">A passionate Data Analyst and Mechanical Engineer from Colombia</h3>
 
 <br/>
@@ -100,4 +94,10 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=0xrphl&" alt="0xrphl" /></p>
 
+
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+<a href="https://twitter.com/0xrnull" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="0xrnull" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/0xraphael" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="0xraphael" height="30" width="40" /></a>
+</p>
 
