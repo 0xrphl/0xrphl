@@ -78,7 +78,7 @@
 <br/>
 <div align=center>
     <div align=center>
-        <a href='https://ko-fi.com/W7W2U4OSB' target='_blank' style='display: inline-block; margin-right: 10px;'><img height='80' style='border:0px;height:65px;' src='https://storage.ko-fi.com/cdn/kofi5.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+        <a href='https://ko-fi.com/W7W2U4OSB' target='_blank' style='margin-right: 100px;'><img height='80' style='border:0px;height:65px;' src='https://storage.ko-fi.com/cdn/kofi5.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
         <a href='https://ibb.co/h7TCMKK' target='_blank' target='_blank' style='display: inline-block; margin-right: 10px;'><img height='80' style='border:0px;height:80px;' src='https://www.mundiplumarii.com/en/wp-content/uploads/2017/12/bitcoin_donation-1.png' border='0' alt='Donate Bitcoin'/></a>
     </div>
     <div align=center>
