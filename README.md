@@ -47,15 +47,11 @@
     <div>Excel, PowerBI, Tableau, LookerStudio, VisualBasic, GoogleSheets, GoogleAppsScript, Puppeteer, SOLIDWORKS, AutodeskInventor, ANSYS, Matplotlib, Numpy, Scipy, Shopify, GoogleAnalytics, Litmus, MJML</div>
     <br>
 </div>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=0xrphl" alt="0xrphl" /></a> </p>
-
-<br/>
 <hr/>
 
 <div align="center">
   <h2>🐍 My Github Contributions 🐍</h2>
-  <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/0xrphl/0xrphl/output/github-contribution-grid-snake.svg" />
   <br/>
 </div>
