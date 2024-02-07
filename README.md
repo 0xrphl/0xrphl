@@ -61,7 +61,6 @@
 </div>
 
 <hr/>
-
 <h2 align="center">⚡ Github Stats ⚡</h2>
 <br>
 <div align=center>
@@ -70,12 +69,8 @@
   <br/>
   <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=0xrphl&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
-
-<br/><br/>
-
 <hr/>
-
-<br/>
+<h3 align="center">Donate:</h3>
 <div align=center>
     <div align=center>
         <a href='https://ko-fi.com/W7W2U4OSB' target='_blank' style='margin-down: 20px; padding: 50px;'>
@@ -83,7 +78,7 @@
 </a>
 
 <a href='https://ibb.co/h7TCMKK' target='_blank' style='display: inline-block; margin-down: 20px; padding: 50px;'>
-  <img height='56' style='border:0px;height:56px;' src='https://www.mundiplumarii.com/en/wp-content/uploads/2017/12/bitcoin_donation-1.png' alt='Donate Bitcoin'/>
+  <img height='62' style='border:0px;height:62px;' src='https://www.mundiplumarii.com/en/wp-content/uploads/2017/12/bitcoin_donation-1.png' alt='Donate Bitcoin'/>
 </a>
         <a href='https://ibb.co/NjfBq1r' target='_blank'><img height='60' style='border:0px;height:60px;' src='https://atlantadentalarts.com/sites/all/themes/atlantadental/images/ethereum.png'  alt='Donate ETH'/></a>
          <a href='https://ibb.co/dbDMmWn' target='_blank'><img height='65' style='border:0px;height:65px;' src='https://i.ibb.co/ncjtmkX/white-6f2e981e-5ad4-44c3-9b7d-5daaf0e34e99p-Photoroom-png-Photoroom-Photoroom-png-Photoroom.png'  alt='Donate Kaspa'/></a>
