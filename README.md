@@ -78,8 +78,8 @@
 <br/>
 <div align=center>
     <div align=center>
-        <a href='https://ko-fi.com/W7W2U4OSB' target='_blank' style='margin-right: 100px;'><img height='80' style='border:0px;height:50px;' src='https://storage.ko-fi.com/cdn/kofi5.png?v=3'alt='Buy Me a Coffee at ko-fi.com' /></a>
-        <a href='https://ibb.co/h7TCMKK' target='_blank' target='_blank' style='display: inline-block; margin-right: 10px;'><img height='80' style='border:0px;height:65px;' src='https://www.mundiplumarii.com/en/wp-content/uploads/2017/12/bitcoin_donation-1.png'  alt='Donate Bitcoin'/></a>
+        <a href='https://ko-fi.com/W7W2U4OSB' target='_blank' style='margin-right: 0px;'><img height='80' style='border:0px;height:50px;' src='https://storage.ko-fi.com/cdn/kofi5.png?v=3'alt='Buy Me a Coffee at ko-fi.com' /></a>
+        <a href='https://ibb.co/h7TCMKK' target='_blank' target='_blank' style='display: inline-block; margin-right: 0px;'><img height='80' style='border:0px;height:65px;' src='https://www.mundiplumarii.com/en/wp-content/uploads/2017/12/bitcoin_donation-1.png'  alt='Donate Bitcoin'/></a>
         <a href='https://ibb.co/NjfBq1r' target='_blank'><img height='80' style='border:0px;height:140px;' src='https://static.vecteezy.com/system/resources/previews/010/851/687/original/3d-illustration-coin-ethereum-png.png'  alt='Donate ETH'/></a>
          <a href='https://ibb.co/dbDMmWn' target='_blank'><img height='80' style='border:0px;height:130px;' src='https://i.ibb.co/K6WzRk0/white-6f2e981e-5ad4-44c3-9b7d-5daaf0e34e99p-Photoroom-png-Photoroom.png'  alt='Donate Kaspa'/></a>
     </div>
