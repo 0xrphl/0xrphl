@@ -86,7 +86,7 @@
   <img height='65' style='border:0px;height:65px;' src='https://www.mundiplumarii.com/en/wp-content/uploads/2017/12/bitcoin_donation-1.png' alt='Donate Bitcoin'/>
 </a>
         <a href='https://ibb.co/NjfBq1r' target='_blank'><img height='65' style='border:0px;height:65px;' src='https://upload.wikimedia.org/wikipedia/commons/f/f5/ETH_logo_landscape_%28gray%29.png'  alt='Donate ETH'/></a>
-         <a href='https://ibb.co/dbDMmWn' target='_blank'><img height='80' style='border:0px;height:130px;' src='https://i.ibb.co/ncjtmkX/white-6f2e981e-5ad4-44c3-9b7d-5daaf0e34e99p-Photoroom-png-Photoroom-Photoroom-png-Photoroom.png'  alt='Donate Kaspa'/></a>
+         <a href='https://ibb.co/dbDMmWn' target='_blank'><img height='40' style='border:0px;height:40px;' src='https://i.ibb.co/ncjtmkX/white-6f2e981e-5ad4-44c3-9b7d-5daaf0e34e99p-Photoroom-png-Photoroom-Photoroom-png-Photoroom.png'  alt='Donate Kaspa'/></a>
     </div>
 </div>
 </div>
