@@ -82,7 +82,7 @@
         <a href='https://ibb.co/h7TCMKK' target='_blank' target='_blank' style='display: inline-block; margin-right: 10px;'><img height='80' style='border:0px;height:80px;' src='https://www.mundiplumarii.com/en/wp-content/uploads/2017/12/bitcoin_donation-1.png'  alt='Donate Bitcoin'/></a>
     </div>
     <div align=center>
-        <a href='https://ibb.co/NjfBq1r' target='_blank'><img height='80' style='border:0px;height:120px;' src='https://www.bitstamp.net/learn/_ipx/enlarge_true&f_png&fit_cover&q_85&s_1200x630/www.bitstamp.net/learn/bts-img/2022/08/1920x1080px_illustrations_learningcenter-25.png'  alt='Donate ETH'/></a>
+        <a href='https://ibb.co/NjfBq1r' target='_blank'><img height='80' style='border:0px;height:120px;' src='https://static.vecteezy.com/system/resources/previews/010/851/687/original/3d-illustration-coin-ethereum-png.png'  alt='Donate ETH'/></a>
          <a href='https://ibb.co/dbDMmWn' target='_blank'><img height='80' style='border:0px;height:130px;' src='https://i.ibb.co/K6WzRk0/white-6f2e981e-5ad4-44c3-9b7d-5daaf0e34e99p-Photoroom-png-Photoroom.png'  alt='Donate Kaspa'/></a>
     </div>
 </div>
