@@ -144,12 +144,12 @@
             <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="50" height="50"/>
         </a>
     </p>
-    <p align="center">
+    <p align="left">
   <a href="#">
-    <img src="https://simpleskill.icons.workers.dev/svg?i=microsoftexcel#" />
+    <img src="https://simpleskill.icons.workers.dev/svg?i=microsoftexcel,powerbi,tableau,looker,visualbasic,googlesheets,googleappsscript,numpy,scipy,dassaultsystemes,autodesk,ansys,shopify,googleanalytics#" />
   </a>
 </p>
-    <div>Excel, PowerBI, Tableau, LookerStudio, VisualBasic, GoogleSheets, GoogleAppsScript, SOLIDWORKS, AutodeskInventor, ANSYS, Matplotlib, Numpy, Scipy, Shopify, GoogleAnalytics, Litmus, MJML</div>
+    <div> Matplotlib, Litmus, MJML</div>
     <br>
 </div>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=0xrphl" alt="0xrphl" /></a> </p>
