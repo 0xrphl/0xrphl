@@ -40,7 +40,7 @@
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
-<div align="left">
+<div align="center">
     <img src="https://skillicons.dev/icons?i=github,octave,visualstudio,vscode,solidity,threejs,wordpress" />
     <br>
      <p align="left">
@@ -123,9 +123,6 @@
         </a>
         <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
             <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="50" height="50"/>
-        </a>
-        <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="50" height="50"/>
         </a>
         <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
             <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="50" height="50"/>
