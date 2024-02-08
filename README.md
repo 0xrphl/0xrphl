@@ -146,7 +146,7 @@
     </p>
     <p align="center">
   <a href="#">
-    <img src="https://simpleskill.icons.workers.dev/svg?i=react,node.js,docker,mongodb,postgresql,awslambda,Excel#" />
+    <img src="https://simpleskill.icons.workers.dev/svg?i=microsoftexcel#" />
   </a>
 </p>
     <div>Excel, PowerBI, Tableau, LookerStudio, VisualBasic, GoogleSheets, GoogleAppsScript, SOLIDWORKS, AutodeskInventor, ANSYS, Matplotlib, Numpy, Scipy, Shopify, GoogleAnalytics, Litmus, MJML</div>
