@@ -40,9 +40,14 @@
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
-<div align="center">
+<div align="left">
     <img src="https://skillicons.dev/icons?i=github,octave,visualstudio,vscode,solidity,threejs,wordpress" />
     <br>
+     <p align="left">
+  <a href="#">
+    <img src="https://simpleskill.icons.workers.dev/svg?i=microsoftexcel,powerbi,tableau,looker,visualbasic,googlesheets,googleappsscript,numpy,scipy,dassaultsystemes,autodesk,ansys,shopify,googleanalytics#" />
+  </a>
+</p>
      <p align="left">
         <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
             <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="50" height="50"/>
@@ -144,11 +149,6 @@
             <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="50" height="50"/>
         </a>
     </p>
-    <p align="left">
-  <a href="#">
-    <img src="https://simpleskill.icons.workers.dev/svg?i=microsoftexcel,powerbi,tableau,looker,visualbasic,googlesheets,googleappsscript,numpy,scipy,dassaultsystemes,autodesk,ansys,shopify,googleanalytics#" />
-  </a>
-</p>
     <div> Matplotlib, Litmus, MJML</div>
     <br>
 </div>
